@@ -14,4 +14,4 @@ Bonjour! I am currently a student at the IUT du Puy-en-Velay and my ambition is 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔊 For concentration...
-[![Snowman - WYS 🎶](https://i.scdn.co/image/your-specific-album-image)](https://open.spotify.com/intl-fr/track/5oKzIi5OFGRD8f2oGaHLtj?si=39bf30b15be44701)
+[![Spotify Badge](https://spotify-github-profile.kittinanx.com/api/view?uid=VOTRE_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/track/5oKzIi5OFGRD8f2oGaHLtj?si=39bf30b15be44701)
