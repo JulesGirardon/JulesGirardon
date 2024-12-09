@@ -3,7 +3,7 @@
 Bonjour! I am currently a student at the IUT du Puy-en-Velay and my ambition is to become a software developer. I have had an interest in the field of IT for a long time (in fact since I got my first computer...) and I love what I do! Here you will find everything I do, from software development to research in artificial intelligence and digital imaging. Have a nice visit! ✈️
 
 ## 🖥️ What i work with
-![JavaScript]((https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
