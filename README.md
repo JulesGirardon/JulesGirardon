@@ -14,4 +14,4 @@ Bonjour! I am currently a student at the IUT du Puy-en-Velay and my ambition is 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🔊 For concentration...
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zelder175&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=zelder175&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ue8m575aujgapvvdpl5e4eo9q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ue8m575aujgapvvdpl5e4eo9q&redirect=true)
