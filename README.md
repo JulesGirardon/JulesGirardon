@@ -46,5 +46,10 @@ Bonjour! I am currently a student at the IUT du Puy-en-Velay and my ambition is 
 
 ###
 
+<div style="display: flex; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emilphonix&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" style="flex: 1;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=emilphonix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" style="flex: 1;" />
+  </div>
+
 ## 🔊 For concentration...
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ue8m575aujgapvvdpl5e4eo9q&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/5oKzIi5OFGRD8f2oGaHLtj?si=39bf30b15be44701)
