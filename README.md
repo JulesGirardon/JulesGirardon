@@ -19,4 +19,4 @@ Bonjour! I am currently a student at the IUT du Puy-en-Velay and my ambition is 
 
 
 ## 🔊 For concentration...
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ue8m575aujgapvvdpl5e4eo9q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ue8m575aujgapvvdpl5e4eo9q&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
